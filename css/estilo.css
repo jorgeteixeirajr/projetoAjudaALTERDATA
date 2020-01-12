@@ -126,7 +126,6 @@ header {
 /* CONTEUDO PRINCIPAL */
 #conteudo-principal {
   color: #c2c2c1;
-  height: 100vh;
   font-size: 1.2em;
   display: flex;
   flex-wrap: wrap;
